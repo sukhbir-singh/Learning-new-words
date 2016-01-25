@@ -1,5 +1,15 @@
 Set 1
 
+#paradigm (Main:a standard, perspective or set of ideas ; A way of looking at something ; 
+a template; example serving as model or pattern)
+Object oriented paradigm is a new and different way of thinking about programming problems.
+
+#synopsis (Main:A brief summary of major points of a written work; A prayer book used in church)
+Synopsis of a particular movie can be obtained by clicking on poster of movie.
+
+#dispatch (To pass on for further processing; to destroy quickly and effeciently)
+We can override this to intercept touch events before they are dispatched to the window.
+
 # manifestation (Main: a sign that shows something clearly) 
 (an occurance in which ghost or spirit of a dead appears; a public demostration of power and purpose )
 
