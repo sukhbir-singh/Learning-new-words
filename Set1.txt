@@ -68,4 +68,7 @@ My Penance must be served down here, where there is no light.
 #Rant(speak or shout at length in an angry, impassioned way)
 "I got that from the rant," Deidre said with a tinkling chuckle.
 
+#Complacency(a feeling of smug or uncritical satisfaction with oneself or one's achievements)
+This boundless complacency was due to policy, not weakness.
+
 
