@@ -74,5 +74,9 @@ This boundless complacency was due to policy, not weakness.
 #Moot(subject to debate, dispute, or uncertainty)
 It is a moot question whether changes of the latter kind actually occur.
 
+#Incensed(very angry; enraged)
+He was so incensed; he'd try as many times as it took.
+
+
 
 
