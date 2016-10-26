@@ -1,4 +1,4 @@
-Set 1
+﻿Set 1
 
 #paradigm (Main:a standard, perspective or set of ideas ; A way of looking at something ; 
 a template; example serving as model or pattern)
@@ -70,5 +70,9 @@ My Penance must be served down here, where there is no light.
 
 #Complacency(a feeling of smug or uncritical satisfaction with oneself or one's achievements)
 This boundless complacency was due to policy, not weakness.
+
+#Beatific(Meaning making happy:  has graced the english language as a word describing things )
+She was Italian,funny a beatific tomboy, with just the hint of a lazy eye,and worw a  pair of glasses that made
+me think over
 
 
