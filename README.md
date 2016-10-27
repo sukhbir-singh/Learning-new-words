@@ -1,1 +1,1 @@
-# Learning-new-words.
+# Learning-new-words
