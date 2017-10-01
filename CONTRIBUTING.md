@@ -1,6 +1,6 @@
 ## Hacktoberfest17
 
-Link:https://hacktoberfest.digitalocean.com 
+Link: https://hacktoberfest.digitalocean.com 
 
 Contributors please add new words of english language that should be part of our vocabulory. 
 
