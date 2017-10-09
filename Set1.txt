@@ -61,6 +61,9 @@ For no system of marks in a lexicon can tell one how to pronounce a word.
 # Glisten (be shiny, as if wet)
 My hair glistens in the hot bright lights.
 
+# Mellifluous
+A sound that is sweet and smooth,pleasing to hear.
+
 # Ousted(drive out or expel (someone) from a position or place)
 Thus Christ ousted in the stocks and stones the old evil spirits that tenanted them, and took their place.
 
@@ -72,7 +75,6 @@ My Penance must be served down here, where there is no light.
 
 # Complacency(a feeling of smug or uncritical satisfaction with oneself or one's achievements)
 This boundless complacency was due to policy, not weakness.
-
 
 # Beatific(Meaning making happy:  has graced the english language as a word describing things )
 She was Italian,funny a beatific tomboy, with just the hint of a lazy eye,and worw a  pair of glasses that made
@@ -118,3 +120,4 @@ Kangana Ranaut is more than happy to let go of this industry, because she doesn'
 
 #vicinity: (In Close Proximity or distance)
 Chandni Chowk is located in the vicinity of Red Fort
+
