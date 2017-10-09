@@ -58,3 +58,6 @@ For no system of marks in a lexicon can tell one how to pronounce a word.
 
 # Glisten (be shiny, as if wet)
 My hair glistens in the hot bright lights.
+
+# Mellifluous
+A sound that is sweet and smooth,pleasing to hear.
