@@ -1,6 +1,6 @@
 ﻿Set 1
 
-# paradigm (Main:a standard, perspective or set of ideas ; A way of looking at something ; 
+# paradigm (Main:a standard, perspective or set of ideas ; A way of looking at something ;
 a template; example serving as model or pattern)
 Object oriented paradigm is a new and different way of thinking about programming problems.
 
@@ -10,7 +10,7 @@ Synopsis of a particular movie can be obtained by clicking on poster of movie.
 # dispatch (To pass on for further processing; to destroy quickly and effeciently)
 We can override this to intercept touch events before they are dispatched to the window.
 
-# manifestation (Main: a sign that shows something clearly) 
+# manifestation (Main: a sign that shows something clearly)
 (an occurance in which ghost or spirit of a dead appears; a public demostration of power and purpose )
 
 A portrait of a mother and child that is regarded as the very manifestation of maternal love.
@@ -19,7 +19,9 @@ Education is the manifestation of perfection already existing in man.  -Swami Vi
 # seizing  (take temporary hold of, or grab, or take by force)
 she was seizing at every chance that she gets to change the mind of peter's.
 
-# rattling  newspaper sound  
+# rattling  newspaper sound
+
+#dichotomy :- a division or contrast between two things that are or are represented as being opposed or entirely different
 
 # conscience  (sense of right or wrong)
 He has no conscience on his cruelty.
