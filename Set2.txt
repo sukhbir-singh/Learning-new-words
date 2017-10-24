@@ -45,3 +45,6 @@ Jeggings (n): Tight-fitting stretch trousers for women, styled to resemble a pai
 
 #pirate (verb): to copy illegally and share via p2p software
 I pirated the new episode of Mr.Robot, it was a good episode.
+
+#Ideas
+I have many ideas for app team. Hope I'll be able to shape them in the coming future. 
