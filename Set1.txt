@@ -128,3 +128,6 @@ Since the politician has no proof of his opponent’s wrongdoings, his claims ar
 
 #comradre: (colleague, friend)
 
+#Legerdemain: (skillful use of one's hands when performing conjuring tricks)
+The magician's masterful legerdemain successfully diverted the audiences attention from the source of the pigeon in the hat.
+
