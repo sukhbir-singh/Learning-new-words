@@ -131,3 +131,6 @@ Since the politician has no proof of his opponent’s wrongdoings, his claims ar
 #Legerdemain: (skillful use of one's hands when performing conjuring tricks)
 The magician's masterful legerdemain successfully diverted the audiences attention from the source of the pigeon in the hat.
 
+#Slummock: (to move slowly and awkwardly)
+At a haunted house, the inexperienced actor slummocked towards me.
+
