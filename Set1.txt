@@ -16,6 +16,8 @@ We can override this to intercept touch events before they are dispatched to the
 A portrait of a mother and child that is regarded as the very manifestation of maternal love.
 Education is the manifestation of perfection already existing in man.  -Swami Vivekananda
 
+# Buko
+A new slang term to mean “much” or “many”.
 
 
 #dichotomy :- a division or contrast between two things that are or are represented as being opposed or entirely different
