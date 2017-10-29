@@ -29,5 +29,6 @@ It seems that I am the greatest coder in the world...Bazinga!
 
 #  Bling (n): Expensive, ostentatious clothing and jewelery
 
-
+# alma mater (the university, school, or college that one formerly attended.)
+  "he started teaching at his alma mater."
 
