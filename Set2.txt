@@ -63,3 +63,5 @@ I have many ideas for app team. Hope I'll be able to shape them in the coming fu
 #Velveteen(noun):It is a cloth made of cotten and linen.
 
 #Decahedron(noun):A figure of ten slides.
+
+#Whiffle(adj): to flourish a sword in sword dancing so as to produce a whistling sound.
