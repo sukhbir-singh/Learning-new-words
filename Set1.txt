@@ -119,6 +119,10 @@ A virtuoso is an incredibly talented musician. You can also be a virtuoso in non
 # Iota: (an extremely small amount)
 Kangana Ranaut is more than happy to let go of this industry, because she doesn't have an iota of respect for it.
 
+# Beer o’clock: 
+It’s the right time of day to start drinking beer. It usually indicates the end of working hours, but for some people it may be at any time of the day.
+It’s almost beer o’clock, let’s finish all our work so we can leave, people!
+
 #vicinity: (In Close Proximity or distance)
 Chandni Chowk is located in the vicinity of Red Fort
 
@@ -135,4 +139,3 @@ The magician's masterful legerdemain successfully diverted the audiences attenti
 
 #Slummock: (to move slowly and awkwardly)
 At a haunted house, the inexperienced actor slummocked towards me.
-
