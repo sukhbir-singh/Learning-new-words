@@ -31,5 +31,6 @@ It seems that I am the greatest coder in the world...Bazinga!
 
 # Abstruse (Difficult to penetrate)
 
-
+#apprise:To inform
+he apprised me of the meeting
 
