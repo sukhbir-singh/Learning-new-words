@@ -31,5 +31,7 @@ It seems that I am the greatest coder in the world...Bazinga!
 
 # Abstruse (Difficult to penetrate)
 
+# Nadir (The lowest point of something)
+Example: My day was boring, but the nadir came when my new car was stolen.
 
 
