@@ -1,4 +1,4 @@
-# Predicament (pre.dic.a.ment) (Meaning: A difficult, unpleasant or embarrassing situation)
+﻿# Predicament (pre.dic.a.ment) (Meaning: A difficult, unpleasant or embarrassing situation)
 (negotiating the outcomes that you want, finding higher levels of satisfaction, dealing with tough people and tougher *predicaments*, and getting rid of those old)
 
 #Bamboozle (bam.boo.zle) (Meaning: to outsmart)
@@ -29,5 +29,10 @@ It seems that I am the greatest coder in the world...Bazinga!
 
 #  Bling (n): Expensive, ostentatious clothing and jewelery
 
+# Abstruse (Difficult to penetrate)
 
+# Impertinent (Rude, Insolent)
+Example: Most of your comments are so impertinent that I don’t wish to dignify them with an answer.
 
+# Procastinate(Delay)
+Example: Procastinating any work due to lazyness is very bad practice
