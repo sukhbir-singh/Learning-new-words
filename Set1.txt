@@ -134,3 +134,5 @@ The magician's masterful legerdemain successfully diverted the audiences attenti
 #Slummock: (to move slowly and awkwardly)
 At a haunted house, the inexperienced actor slummocked towards me.
 
+#Curicullum Vitae: Description of the work done a person
+
