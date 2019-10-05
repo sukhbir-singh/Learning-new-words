@@ -1,4 +1,4 @@
-# Predicament (pre.dic.a.ment) (Meaning: A difficult, unpleasant or embarrassing situation)
+﻿# Predicament (pre.dic.a.ment) (Meaning: A difficult, unpleasant or embarrassing situation)
 (negotiating the outcomes that you want, finding higher levels of satisfaction, dealing with tough people and tougher *predicaments*, and getting rid of those old)
 
 #Bamboozle (bam.boo.zle) (Meaning: to outsmart)
@@ -34,4 +34,8 @@ Adhaar is free, but enrolment centres fleece applicants.
 
 #grullo, adj. and n.: “Designating a horse having a coat of a grey or greyish-tan colour with a darker head and stripe along the back and a dark mane and tail.”
 
+# Impertinent (Rude, Insolent)
+Example: Most of your comments are so impertinent that I don’t wish to dignify them with an answer.
 
+# Procastinate(Delay)
+Example: Procastinating any work due to lazyness is very bad practice
