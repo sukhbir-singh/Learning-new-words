@@ -1,19 +1,19 @@
-﻿# Predicament (pre.dic.a.ment) (Meaning: A difficult, unpleasant or embarrassing situation)
+# Predicament (Meaning: A difficult, unpleasant or embarrassing situation)
 (negotiating the outcomes that you want, finding higher levels of satisfaction, dealing with tough people and tougher *predicaments*, and getting rid of those old)
 
-#Bamboozle (bam.boo.zle) (Meaning: to outsmart)
+#Bamboozle (Meaning: to outsmart)
 (The mouse bamboozled the cat and went into the rathole.)
 
-#Bazinga(Sheldon's way of cracking a joke)
+#Bazinga (Sheldon's way of cracking a joke)
 It seems that I am the greatest coder in the world...Bazinga!
 
-#Kerfuffle (k?'f?f(?)l)
+#Kerfuffle 
 (It means to make a fuss or a bother, usually when people have different points of view. )
 
-# Defenestration (de.fe.nes.tra.tion) (Meaning: the action of throwing someone or something out of a window.)
+# Defenestration (Meaning: the action of throwing someone or something out of a window.)
 (Death by defenestration has its own history.)
 
-# Droolworthy (adj): Extremely attractive or desirable.
+# Droolworthy: Extremely attractive or desirable.
 
 # Weak sauce (It means something that is not good quality, or something that does not perform well).
 
@@ -29,7 +29,10 @@ It seems that I am the greatest coder in the world...Bazinga!
 
 #  Bling (n): Expensive, ostentatious clothing and jewelery
 
-# Abstruse (Difficult to penetrate)
+#Fleece (to take someone's money dishonestly, by charging too much money or by cheating them)
+Adhaar is free, but enrolment centres fleece applicants.
+
+#grullo, adj. and n.: “Designating a horse having a coat of a grey or greyish-tan colour with a darker head and stripe along the back and a dark mane and tail.”
 
 # Impertinent (Rude, Insolent)
 Example: Most of your comments are so impertinent that I don’t wish to dignify them with an answer.
@@ -37,7 +40,15 @@ Example: Most of your comments are so impertinent that I don’t wish to dignify
 # Procastinate(Delay)
 Example: Procastinating any work due to lazyness is very bad practice
 
+
 bromance n. Close platonic male friendship.
 
 
 # Zenith- Summit, Highest form of achievement.
+
+# Ephemeral(lasting for a short duration)
+Example: Fads are ephemeral, new ones regularly drive out the old.
+
+# Gratuitous(uncalled for)
+Example: Gratuitous violence was reported.
+
