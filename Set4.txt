@@ -45,3 +45,6 @@ Example: Fads are ephemeral, new ones regularly drive out the old.
 
 # Gratuitous(uncalled for)
 Example: Gratuitous violence was reported.
+
+# Telecommute (Work at home)
+Example: The company now allows some of its employees to telecommute.
