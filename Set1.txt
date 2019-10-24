@@ -146,3 +146,7 @@ Chandni Chowk is located in the vicinity of Red Fort
 
 # Virtuoso
 A virtuoso is an incredibly talented musician. You can also be a virtuoso in non-musical fields.
+
+# Frenemy
+A person who pretends to be a friend, but is really an enemy.
+
