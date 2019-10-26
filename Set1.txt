@@ -1,4 +1,5 @@
 ﻿Set 1
+#Plutomania :- A person obsessed with wealth
 
 # paradigm (Main:a standard, perspective or set of ideas ; A way of looking at something ;
 a template; example serving as model or pattern)
