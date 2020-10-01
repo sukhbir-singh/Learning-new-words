@@ -48,3 +48,6 @@ Example: Gratuitous violence was reported.
 
 # Telecommute (Work at home)
 Example: The company now allows some of its employees to telecommute.
+
+# Errand (a short journey undertaken in order to deliver or collect something)
+Example: she knew that if she stated her errand she would not be able to see him
