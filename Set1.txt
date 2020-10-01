@@ -124,7 +124,6 @@ The mouse bamboozled the cat and went into the rathole.
 
 # Overmorrow: (The day after Tomorrow)
 
-
 # smack (to hit with open hand specially as punishment)
 do that again and you get your bottom smacked.
 
@@ -146,3 +145,6 @@ Chandni Chowk is located in the vicinity of Red Fort
 
 # Virtuoso
 A virtuoso is an incredibly talented musician. You can also be a virtuoso in non-musical fields.
+
+# Hellacious
+Hellacious describes an awful experience and is often used to describe traffic, weather or even a period of time (e.g. a hellacious summer)
