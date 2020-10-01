@@ -1,4 +1,4 @@
-## Hacktoberfest 2k19
+## Hacktoberfest 2020
 
 Link: https://hacktoberfest.digitalocean.com 
 
