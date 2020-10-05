@@ -48,3 +48,6 @@ Example: Gratuitous violence was reported.
 
 # Dismal (Depressing)
 Example: The business was a dismal failure.
+
+# Superannuated (too old to be useful)
+Example: Mig 21.s of the Indian Air Force, popularly called as the Flying Coffins or the Widow makers are planned to be superannuated by 2021.
