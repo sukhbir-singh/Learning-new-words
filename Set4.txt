@@ -29,5 +29,9 @@ It seems that I am the greatest coder in the world...Bazinga!
 
 #  Bling (n): Expensive, ostentatious clothing and jewelery
 
+# Bibliography: a list of the books of a specific author or publisher, or on a specific subject.
 
+# Mystified: make obscure or mysterious.
+
+## Example: "lawyers who mystify the legal system so that laymen find it unintelligible"
 
