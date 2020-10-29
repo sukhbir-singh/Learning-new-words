@@ -1,142 +1,158 @@
 ﻿Set 1
 
-# paradigm (Main:a standard, perspective or set of ideas ; A way of looking at something ;
-a template; example serving as model or pattern)
-Object oriented paradigm is a new and different way of thinking about programming problems.
-
-# synopsis (Main:A brief summary of major points of a written work; A prayer book used in church)
-Synopsis of a particular movie can be obtained by clicking on poster of movie.
-
-# dispatch (To pass on for further processing; to destroy quickly and effeciently)
-We can override this to intercept touch events before they are dispatched to the window.
-
-# manifestation (Main: a sign that shows something clearly)
-(an occurance in which ghost or spirit of a dead appears; a public demostration of power and purpose )
-
-A portrait of a mother and child that is regarded as the very manifestation of maternal love.
-Education is the manifestation of perfection already existing in man.  -Swami Vivekananda
-
-
-
-#dichotomy :- a division or contrast between two things that are or are represented as being opposed or entirely different
-
-# conscience  (sense of right or wrong)
-He has no conscience on his cruelty.
-I cannot answer to my conscience if i allow you to go to this place.
-
-# misfit(person not accepted by group because his idea were very different along with his behaviour)
-
-# slacks (trousers or pants for men or women not part of suit)
-After doing his work he goes to market where he sees a women in slacks buying some eatables.
-
-# apricots(fruit whith yellow and orange skin)
-she wants to paint her wall with apricote and white.
-
-# stocky (strong body)
-noone else noticed her except a stocky child with his glasses sitting at sofa.
-
-# smack (to hit with open hand specially as punishment)
-do that again and you get your bottom smacked.
-
-# splendid (brilliant or excellent of very high standard)
-
-# picaninny (a offensive word used for black child)
-
-# shack(buildings made up of woods or metal)
-settlement consists of shacks only no buildings, or roads.
-
-#despicable (very ​unpleasant or ​bad, ​causing ​strong ​feelings of ​dislike)
-It was despicable of her to ​lie about her ​friend.
-
-# lionize (to treat (a person) as a celebrity)
-To lionize the visiting poet
-
-# paroxysm (a sudden attack or outburst of a particular emotion or activity)
-He went into paroxysms of laughter.
-
-# lexicon (the vocabulary of a person, language, or branch of knowledge)
-For no system of marks in a lexicon can tell one how to pronounce a word.
-
-# Glisten (be shiny, as if wet)
-My hair glistens in the hot bright lights.
-
-# Mellifluous
-A sound that is sweet and smooth,pleasing to hear.
-
-# Ousted(drive out or expel (someone) from a position or place)
-Thus Christ ousted in the stocks and stones the old evil spirits that tenanted them, and took their place.
-
-# Penance(punishment inflicted on oneself as an outward expression of repentance for wrongdoing)
-My Penance must be served down here, where there is no light.
-
-# Rant(speak or shout at length in an angry, impassioned way)
-"I got that from the rant," Deidre said with a tinkling chuckle.
-
-# Complacency(a feeling of smug or uncritical satisfaction with oneself or one's achievements)
-This boundless complacency was due to policy, not weakness.
-
-# Beatific(Meaning making happy:  has graced the english language as a word describing things )
-She was Italian,funny a beatific tomboy, with just the hint of a lazy eye,and worw a  pair of glasses that made
-me think over
-
-# Moot(subject to debate, dispute, or uncertainty)
-It is a moot question whether changes of the latter kind actually occur.
-
-# Incensed(very angry; enraged)
-He was so incensed; he'd try as many times as it took.
-
 # Abrogate(abolish or avoid)
 When someone cuts in front of you in line, they are abrogating your right to be the next one served. When you cut in line, you are abrogating your responsibility to those who were in line before you.
 
 # Anachronistic
 Something that's old-fashioned and maybe a little out of place is anachronistic, like a clunky black rotary-dial telephone sitting on a desk beside a sleek new smart-phone (or whatever the new technology when you read this).
 
+# Apricots(fruit whith yellow and orange skin)
+she wants to paint her wall with apricote and white.
+
+# Articulate: (having or showing the ability to speak fluently and coherently)
+My teacher called me and said just because you're articulate doesn't mean you can weave your way through life, then we both laughed.
+
+# Balderdash: (ridiculous thoughts or words)
+Since the politician has no proof of his opponent’s wrongdoings, his claims are viewed as balderdash.
+
+# Beatific(Meaning making happy:  has graced the english language as a word describing things )
+She was Italian,funny a beatific tomboy, with just the hint of a lazy eye,and worw a  pair of glasses that made
+me think over
+
+# Beer o’clock: 
+It’s the right time of day to start drinking beer. It usually indicates the end of working hours, but for some people it may be at any time of the day.
+It’s almost beer o’clock, let’s finish all our work so we can leave, people!
+
+# Bokeh ˈbō-kā,-kə  (n): The blurred effect in a photograph taken with a narrow depth of field. Derived from the Japanese word boke, meaning “blur,” which also refers to unclear thinking. First use: 2000. Recent usage: March 2017. Bokeh is the title of a science fiction movie from New Zealand about the last two people on Earth
+
+# Box tent (the table in the middle of a pizza box)
+
+# Complacency(a feeling of smug or uncritical satisfaction with oneself or one's achievements)
+This boundless complacency was due to policy, not weakness.
+
+# Comrade: (colleague, friend)
+
+# Conscience  (sense of right or wrong)
+He has no conscience on his cruelty.
+I cannot answer to my conscience if i allow you to go to this place.
+
+# Despicable (very ​unpleasant or ​bad, ​causing ​strong ​feelings of ​dislike)
+It was despicable of her to ​lie about her ​friend.
+
+# Dichotomy :- a division or contrast between two things that are or are represented as being opposed or entirely different
+
+# Dispatch (To pass on for further processing; to destroy quickly and effeciently)
+We can override this to intercept touch events before they are dispatched to the window.
+
 # Equanimity
 If you take the news of your parakeet's death with equanimity, it means you take it calmly without breaking down. Equanimity refers to emotional calmness and balance in times of stress.
+
+# Glisten (be shiny, as if wet)
+My hair glistens in the hot bright lights.
+
+# Hangry (simply combine anger with hunger)
+Guys, I need food. You really don’t want to deal with me when I’m hangry.
+
+# Incensed(very angry; enraged)
+He was so incensed; he'd try as many times as it took.
 
 # Intimation
 The noun intimation means a hint or an indirect suggestion. Your teacher's intimation that there could be a quiz the next day might send you into a panic, while your friend sitting beside you might not even notice.
 
-# Protean
-When Picasso is described as a protean genius, it means that not only was he brilliant, but he changed the way he worked many times. Protean means able to change shape.
-
-# Staid
-Something that is staid is dignified, respectable — possibly even boring, like a staid dinner party that is heavy on the important guests but light on the laughs.
-
-# Virtuoso
-A virtuoso is an incredibly talented musician. You can also be a virtuoso in non-musical fields.
-
-# Box tent (the table in the middle of a pizza box)
-
-# Obliged
-
-# Octothorpe: (The pound (#) button on a telephone)
-
-# Overmorrow: (The day after Tomorrow)
-
 # Iota: (an extremely small amount)
 Kangana Ranaut is more than happy to let go of this industry, because she doesn't have an iota of respect for it.
-
-#vicinity: (In Close Proximity or distance)
-Chandni Chowk is located in the vicinity of Red Fort
-
-#Articulate: (having or showing the ability to speak fluently and coherently)
-My teacher called me and said just because you're articulate doesn't mean you can weave your way through life, then we both laughed.
-
-#Balderdash: (ridiculous thoughts or words)
-Since the politician has no proof of his opponent’s wrongdoings, his claims are viewed as balderdash.
-
-#comradre: (colleague, friend)
 
 #Legerdemain: (skillful use of one's hands when performing conjuring tricks)
 The magician's masterful legerdemain successfully diverted the audiences attention from the source of the pigeon in the hat.
 
-#Slummock: (to move slowly and awkwardly)
-At a haunted house, the inexperienced actor slummocked towards me.
+# Lexicon (the vocabulary of a person, language, or branch of knowledge)
+For no system of marks in a lexicon can tell one how to pronounce a word.
+
+# Lionize (to treat (a person) as a celebrity)
+To lionize the visiting poet
+
+# Manifestation (Main: a sign that shows something clearly)
+(an occurance in which ghost or spirit of a dead appears; a public demostration of power and purpose )
+A portrait of a mother and child that is regarded as the very manifestation of maternal love.
+
+# Mellifluous
+A sound that is sweet and smooth,pleasing to hear.
+
+# Misfit(person not accepted by group because his idea were very different along with his behaviour)
+
+# Moot(subject to debate, dispute, or uncertainty)
+It is a moot question whether changes of the latter kind actually occur.
+
+# Obliged: make (someone) legally or morally bound to an action or course of action.
+Doctors are obliged by law to keep patients alive while there is a chance of recovery.
+
+# Octothorpe: (The pound (#) button on a telephone)
+
+# Ousted(drive out or expel (someone) from a position or place)
+Thus Christ ousted in the stocks and stones the old evil spirits that tenanted them, and took their place.
+
+# Overmorrow: (The day after Tomorrow)
+
+# Paradigm (Main:a standard, perspective or set of ideas ; A way of looking at something ;
+a template; example serving as model or pattern)
+Object oriented paradigm is a new and different way of thinking about programming problems.
+
+# Paroxysm (a sudden attack or outburst of a particular emotion or activity)
+He went into paroxysms of laughter.
+
+# Penance(punishment inflicted on oneself as an outward expression of repentance for wrongdoing)
+My Penance must be served down here, where there is no light.
+
+# Picaninny (a offensive word used for black child)
+
+# Protean
+When Picasso is described as a protean genius, it means that not only was he brilliant, but he changed the way he worked many times. Protean means able to change shape.
+
+# Rant(speak or shout at length in an angry, impassioned way)
+"I got that from the rant," Deidre said with a tinkling chuckle.
+
+# Shack(buildings made up of woods or metal)
+settlement consists of shacks only no buildings, or roads.
+
+# Slacks (trousers or pants for men or women not part of suit)
+After doing his work he goes to market where he sees a women in slacks buying some eatables.
+
+# Bamboozle (bam.boo.zle) (Meaning: to outsmart)
+The mouse bamboozled the cat and went into the rathole.
+
+# Overmorrow: (The day after Tomorrow)
+
+# Smack (to hit with open hand specially as punishment)
+Do that again and you get your bottom smacked.
+
+# Spanghew: (to throw violently into the air; especially, to throw (a frog) into the air from the end of a stick)
+
+# Splendid (brilliant or excellent of very high standard)
+
+# Staid
+Something that is staid is dignified, respectable — possibly even boring, like a staid dinner party that is heavy on the important guests but light on the laughs.
+
+# Stocky (strong body)
+noone else noticed her except a stocky child with his glasses sitting at sofa.
+
+# Synopsis (Main:A brief summary of major points of a written work; A prayer book used in church)
+Synopsis of a particular movie can be obtained by clicking on poster of movie.
+
+# Vicinity: (In Close Proximity or distance)
+Chandni Chowk is located in the vicinity of Red Fort
+
+# Virtuoso
+A virtuoso is an incredibly talented musician. You can also be a virtuoso in non-musical fields.
+
+# Hellacious
+Hellacious describes an awful experience and is often used to describe traffic, weather or even a period of time (e.g. a hellacious summer)
 
 #Curicullum Vitae: Description of the work done a person
 
 #barack, n.: “A type of apricot brandy made in Hungary; a drink of this.”
 
-
 #barb, n.4: “A barbiturate; a barbiturate tablet. Usually in plural.”
+
+# Fulminate (criticize severely)
+There are so many reasons which Indian Government is providing for the nation to fulminate.
+
