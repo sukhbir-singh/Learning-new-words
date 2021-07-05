@@ -1,0 +1,35 @@
+Assistive technology
+Assistive technology refers to any software or hardware that acts to assist and improve the functional capabilities of people with disabilities. 
+Examples include wheelchairs, prosthetics, voice-to-text technology and text-to-speech technology.
+
+Back-end
+Back-end refers to the part of an application that performs an essential task not apparent to the user.
+
+Bandwidth
+Bandwidth refers to the maximum amount of data that can travel a communications path in a given time, usually measured in seconds.						
+
+Boolean operators
+Most search engines (e.g. Google) allow you to limit your search or make it more specific by using words such as "and", "or" and "not".
+ These words are known as boolean operators because of their origin as terms in logic.
+
+Cache
+When you download (read) a web page, the data is "cached," meaning it is temporarily stored on your computer.
+ The next time you want that page, instead of requesting the file from the web server, your web browser just accesses it from the cache, so the page loads quickly.
+ The downside to this is that if the cached web page is often updated, you may miss the latest version. 
+If you suspect that the web page you're seeing is not the latest version, use the "refresh" button on your browser.
+
+Cloud computing
+Cloud computing refers to the storing and accessing of data and programs over the Internet instead of on another type of hard drive. 
+Examples of Cloud services include iCloud, Google Cloud and Dropbox.
+
+Ethernet
+Ethernet is the most common way of connecting computers on a network with a wired connection. 
+It is a type of local area network (LAN) technology, providing a simple interface for connecting multiple devices.
+
+Malware
+"Malware" is short for malicious software. It refers to a software program that has been developed to do harm to other computers. 
+Types of malware include viruses, worms and spyware.
+
+Resolution
+Resolution refers to the number of distinct pixels that make up the display on a computer monitor. It is denoted in DPI (dots per inch). 
+The higher the resolution, the finer and smoother the images appear when displayed at a given size.
