@@ -1,5 +1,7 @@
 Set-2
 
+#adventure(a thrilling experience)
+
 #grace (bring honour or credit to, courteous good will)
 He is one of the best players ever to have graced the game
 
@@ -35,5 +37,16 @@ Adhaar is free, but enrolment centres fleece applicants.
 
 #Manipulate (to influence someone)
 Frank manipulated the case with his power.
+
+#Blitzkreig(a very fast process)
+Hitler invaded France with a blitzkreig speed
+
 #Crunk (adj): Very excited or full of energy.
-# Jeggings (n): Tight-fitting stretch trousers for women, styled to resemble a pair of denim jeans.
+
+Jeggings (n): Tight-fitting stretch trousers for women, styled to resemble a pair of denim jeans.
+
+#pirate (verb): to copy illegally and share via p2p software
+I pirated the new episode of Mr.Robot, it was a good episode.
+
+#Ideas
+I have many ideas for app team. Hope I'll be able to shape them in the coming future. 
