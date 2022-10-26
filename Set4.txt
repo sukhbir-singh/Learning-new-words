@@ -46,6 +46,9 @@ Example: Most of your comments are so impertinent that I don’t wish to dignify
 # Procastinate(Delay)
 Example: Procastinating any work due to lazyness is very bad practice
 
+# Prudent(Cautious; Careful)
+Example: A miser hoards money not because he is prudent but because he is greedy
+
 # Ephemeral(lasting for a short duration)
 Example: Fads are ephemeral, new ones regularly drive out the old.
 
