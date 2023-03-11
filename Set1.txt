@@ -114,6 +114,9 @@ When Picasso is described as a protean genius, it means that not only was he bri
 # Rant(speak or shout at length in an angry, impassioned way)
 "I got that from the rant," Deidre said with a tinkling chuckle.
 
+# Rendezvous(a meeting that you have arranged with somebody)
+"Let's rendezvous this weekend at the mall.".
+
 # Shack(buildings made up of woods or metal)
 settlement consists of shacks only no buildings, or roads.
 
