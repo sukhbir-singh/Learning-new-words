@@ -161,3 +161,5 @@ Hellacious describes an awful experience and is often used to describe traffic, 
 # Fulminate (criticize severely)
 There are so many reasons which Indian Government is providing for the nation to fulminate.
 
+#Quid pro quo
+an action or thing that is exchanged for another action or thing of more or less equal value
